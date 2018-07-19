@@ -1,11 +1,13 @@
 import React, { Component } from "react";
 
-class landingpage extends Component {
+class projects extends Component {
   render() {
     return (
       <div>
-        <h1>Landing</h1>
+        <h1>Projects</h1>
       </div>
     );
   }
 }
+
+export default projects

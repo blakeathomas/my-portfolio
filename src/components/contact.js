@@ -1,11 +1,13 @@
 import React, { Component } from "react";
 
-class landingpage extends Component {
+class contact extends Component {
   render() {
     return (
       <div>
-        <h1>Landing</h1>
+        <h1>contact</h1>
       </div>
     );
   }
 }
+
+export default contact;
