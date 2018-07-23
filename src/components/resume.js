@@ -4,10 +4,10 @@ class resume extends Component {
   render() {
     return (
       <div>
-        <h1>Resume</h1>
+        <h1>How</h1>
       </div>
     );
   }
 }
 
-export default resume
+export default resume;
